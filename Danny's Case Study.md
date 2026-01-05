@@ -72,6 +72,13 @@ GROUP BY s.customer_id;
 * Used `SUM(price)` to calculate total spending
 * Grouped the data by customer
 
+  #### Answer:
+| customer_id | total_sales |
+| ----------- | ----------- |
+| A           | 76          |
+| B           | 74          |
+| C           | 36          |
+
 **Insight:**
 
 * Customer A spent $76
@@ -98,6 +105,13 @@ GROUP BY customer_id;
 **Explanation:**
 
 * Used `COUNT(DISTINCT order_date)` to avoid counting multiple orders on the same day as multiple visits
+
+#### Answer:
+| customer_id | visit_count |
+| ----------- | ----------- |
+| A           | 4          |
+| B           | 6          |
+| C           | 2          |
 
 **Insight:**
 
@@ -136,6 +150,15 @@ WHERE rnk = 1;
 * Used a window function to identify first purchase dates
 * Applied `DENSE_RANK()` because multiple items can be ordered on the same day
 
+#### Answer:
+| customer_id | product_name | 
+| ----------- | ----------- |
+| A           | curry        | 
+| A           | sushi        | 
+| B           | curry        | 
+| C           | ramen        |
+
+
 **Insight:**
 
 * Customer A ordered curry and sushi on the same day
@@ -160,6 +183,12 @@ GROUP BY m.product_name
 ORDER BY order_count DESC
 LIMIT 1;
 ```
+
+#### Answer:
+| most_purchased | product_name | 
+| ----------- | ----------- |
+| 8       | ramen |
+
 
 **Insight:**
 
@@ -195,6 +224,15 @@ WHERE rnk = 1;
 
 * Used `DENSE_RANK()` to allow multiple favorite items per customer when counts are equal
 
+  #### Answer:
+| customer_id | product_name | order_count |
+| ----------- | ---------- |------------  |
+| A           | ramen        |  3   |
+| B           | sushi        |  2   |
+| B           | curry        |  2   |
+| B           | ramen        |  2   |
+| C           | ramen        |  3   |
+
 ---
 
 ### 6. First purchase after becoming a member
@@ -221,6 +259,11 @@ FROM (
 ) t
 WHERE rn = 1;
 ```
+#### Answer:
+| customer_id | product_name |
+| ----------- | ---------- |
+| A           | ramen        |
+| B           | sushi        |
 
 **Insight:**
 
@@ -253,6 +296,11 @@ FROM (
 ) t
 WHERE rn = 1;
 ```
+#### Answer:
+| customer_id | product_name |
+| ----------- | ---------- |
+| A           | Curry        |
+| B           | sushi        |
 
 ---
 
@@ -274,6 +322,12 @@ ON s.customer_id = mb.customer_id
 WHERE s.order_date < mb.join_date
 GROUP BY s.customer_id;
 ```
+
+#### Answer:
+| customer_id | total_items | total_sales |
+| ----------- | ---------- |----------  |
+| A           | 2 |  25       |
+| B           | 3 |  40       |
 
 ---
 
@@ -298,6 +352,12 @@ JOIN menu m
 ON s.product_id = m.product_id
 GROUP BY customer_id;
 ```
+#### Answer:
+| customer_id | total_points | 
+| ----------- | ---------- |
+| A           | 860 |
+| B           | 940 |
+| C           | 360 |
 
 ---
 
@@ -324,6 +384,12 @@ ON s.customer_id = mb.customer_id
 WHERE MONTH(order_date) = 1
 GROUP BY customer_id;
 ```
+
+#### Answer:
+| customer_id | total_points | 
+| ----------- | ---------- |
+| A           | 1520       |
+| B           | 1240       |
 
 ---
 
