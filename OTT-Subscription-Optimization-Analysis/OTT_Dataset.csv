@@ -1,0 +1,452 @@
+user_id,user_name,age,gender,city,income_group,signup_date,subscription_id,platform,plan_type,monthly_cost,watch_hours_per_month,last_used_days_ago,payment_method,primary_device,auto_renewal
+1,Aarav Sharma,27,Female,Mumbai,Low,2024-02-07,1,Zee5,Basic,99,7,47,UPI,TV,No
+1,Aarav Sharma,27,Female,Mumbai,Low,2024-02-07,2,Netflix,Basic,199,3,42,Credit Card,TV,No
+2,Vivaan Patel,41,Female,Kolkata,Low,2024-02-17,3,SonyLiv,Premium,299,1,42,UPI,Tablet,Yes
+2,Vivaan Patel,41,Female,Kolkata,Low,2024-02-17,4,Hotstar,Premium,499,2,84,UPI,TV,No
+3,Aditya Verma,42,Male,Delhi,High,2023-02-23,5,Amazon Prime,Annual,149,53,17,Debit Card,Tablet,No
+3,Aditya Verma,42,Male,Delhi,High,2023-02-23,6,Hotstar,Mobile,149,48,20,Net Banking,Laptop,Yes
+3,Aditya Verma,42,Male,Delhi,High,2023-02-23,7,Zee5,Premium,199,75,25,Net Banking,Laptop,Yes
+4,Vihaan Reddy,21,Female,Chennai,Low,2023-10-09,8,Netflix,Premium,649,49,16,Credit Card,Laptop,No
+5,Arjun Nair,47,Male,Pune,Low,2024-05-01,9,SonyLiv,Mobile,199,36,1,Net Banking,Mobile,No
+6,Sai Krishna,27,Female,Delhi,Low,2024-03-31,10,Netflix,Standard,499,16,6,Credit Card,TV,Yes
+7,Rahul Kumar,20,Male,Chennai,High,2023-04-03,11,Hotstar,Mobile,149,61,1,Net Banking,Tablet,No
+8,Karthik Raj,39,Female,Delhi,Low,2024-09-13,12,Hotstar,Mobile,149,19,29,Debit Card,Tablet,No
+8,Karthik Raj,39,Female,Delhi,Low,2024-09-13,13,Zee5,Basic,99,0,55,Debit Card,Mobile,No
+8,Karthik Raj,39,Female,Delhi,Low,2024-09-13,14,Netflix,Standard,499,0,83,Debit Card,TV,No
+9,Pranav Gupta,18,Male,Chennai,Medium,2024-10-21,15,Netflix,Premium,649,7,33,Credit Card,Mobile,Yes
+10,Rohan Mehta,40,Male,Chennai,High,2023-01-04,16,Hotstar,Premium,499,58,12,Net Banking,TV,Yes
+11,Aryan Singh,28,Female,Bangalore,High,2024-04-13,17,Zee5,Basic,99,26,27,UPI,TV,Yes
+12,Harsh Vardhan,43,Female,Mumbai,High,2023-12-26,18,Netflix,Basic,199,63,0,Credit Card,Tablet,Yes
+13,Nikhil Jain,23,Female,Pune,High,2023-04-08,19,SonyLiv,Mobile,199,5,78,Net Banking,Mobile,No
+13,Nikhil Jain,23,Female,Pune,High,2023-04-08,20,Amazon Prime,Annual,149,7,89,Debit Card,TV,No
+13,Nikhil Jain,23,Female,Pune,High,2023-04-08,21,Netflix,Basic,199,0,45,UPI,Mobile,Yes
+14,Siddharth Rao,48,Male,Pune,Medium,2023-12-25,22,Zee5,Basic,99,74,18,Debit Card,Mobile,Yes
+14,Siddharth Rao,48,Male,Pune,Medium,2023-12-25,23,Amazon Prime,Monthly,299,9,76,Credit Card,Tablet,Yes
+14,Siddharth Rao,48,Male,Pune,Medium,2023-12-25,24,SonyLiv,Mobile,199,5,38,Debit Card,Mobile,No
+15,Yash Agarwal,37,Female,Delhi,Low,2023-11-30,25,Amazon Prime,Annual,149,29,29,Credit Card,Tablet,Yes
+16,Anirudh Iyer,23,Female,Delhi,Low,2023-11-18,26,Amazon Prime,Annual,149,12,6,Credit Card,Tablet,Yes
+16,Anirudh Iyer,23,Female,Delhi,Low,2023-11-18,27,Netflix,Premium,649,54,0,UPI,Tablet,Yes
+17,Manish Kumar,45,Female,Chennai,Low,2024-03-22,28,Amazon Prime,Annual,149,4,56,Net Banking,Laptop,No
+18,Akash Mishra,19,Female,Chennai,High,2023-06-30,29,Zee5,Basic,99,25,5,Net Banking,Laptop,Yes
+19,Deepak Sharma,51,Male,Mumbai,Low,2024-04-22,30,Netflix,Standard,499,16,25,UPI,Laptop,Yes
+19,Deepak Sharma,51,Male,Mumbai,Low,2024-04-22,31,Hotstar,Premium,499,9,60,Debit Card,Tablet,No
+20,Varun Reddy,38,Male,Chennai,High,2023-07-08,32,Zee5,Premium,199,7,78,UPI,TV,Yes
+20,Varun Reddy,38,Male,Chennai,High,2023-07-08,33,SonyLiv,Mobile,199,0,70,Debit Card,Tablet,Yes
+21,Abhishek Verma,39,Female,Pune,Low,2024-09-01,34,Zee5,Premium,199,19,16,Debit Card,TV,No
+21,Abhishek Verma,39,Female,Pune,Low,2024-09-01,35,Hotstar,Super,299,61,13,UPI,Mobile,No
+22,Shreyas Nair,23,Male,Kolkata,Medium,2024-10-04,36,Zee5,Basic,99,49,5,UPI,Mobile,No
+22,Shreyas Nair,23,Male,Kolkata,Medium,2024-10-04,37,Hotstar,Premium,499,36,16,UPI,Laptop,Yes
+23,Vivek Kumar,43,Male,Mumbai,Medium,2024-02-21,38,SonyLiv,Premium,299,20,14,Debit Card,Mobile,No
+24,Ritesh Gupta,45,Male,Mumbai,High,2024-09-06,39,Amazon Prime,Annual,149,26,15,Credit Card,TV,No
+24,Ritesh Gupta,45,Male,Mumbai,High,2024-09-06,40,Zee5,Premium,199,6,87,UPI,TV,Yes
+25,Gokul Raj,33,Female,Kolkata,Low,2024-02-24,41,Hotstar,Super,299,70,3,Credit Card,Mobile,Yes
+25,Gokul Raj,33,Female,Kolkata,Low,2024-02-24,42,Zee5,Basic,99,59,12,Credit Card,Mobile,Yes
+26,Sanjay Patel,22,Male,Pune,Medium,2023-10-01,43,SonyLiv,Premium,299,56,21,Debit Card,Laptop,No
+26,Sanjay Patel,22,Male,Pune,Medium,2023-10-01,44,Amazon Prime,Annual,149,3,83,Net Banking,Mobile,No
+27,Ashwin Kumar,52,Male,Pune,Medium,2024-11-04,45,Zee5,Premium,199,7,70,Debit Card,Laptop,Yes
+27,Ashwin Kumar,52,Male,Pune,Medium,2024-11-04,46,Hotstar,Mobile,149,61,28,Credit Card,TV,No
+28,Pavan Reddy,21,Male,Pune,Low,2024-06-24,47,Hotstar,Super,299,35,26,Debit Card,TV,No
+28,Pavan Reddy,21,Male,Pune,Low,2024-06-24,48,Netflix,Premium,649,46,10,Debit Card,Laptop,No
+29,Naveen Kumar,24,Male,Pune,Medium,2024-03-28,49,Amazon Prime,Annual,149,7,60,Credit Card,Tablet,No
+29,Naveen Kumar,24,Male,Pune,Medium,2024-03-28,50,SonyLiv,Mobile,199,41,19,Credit Card,Laptop,No
+29,Naveen Kumar,24,Male,Pune,Medium,2024-03-28,51,Netflix,Standard,499,8,71,Debit Card,Laptop,Yes
+30,Kiran Rao,42,Female,Delhi,Medium,2024-05-08,52,SonyLiv,Mobile,199,61,23,Credit Card,Laptop,No
+30,Kiran Rao,42,Female,Delhi,Medium,2024-05-08,53,Zee5,Premium,199,64,3,Credit Card,TV,Yes
+31,Mohan Sharma,23,Female,Chennai,Low,2023-06-25,54,SonyLiv,Premium,299,49,2,Net Banking,Mobile,No
+32,Rakesh Verma,49,Female,Mumbai,High,2023-10-26,55,SonyLiv,Mobile,199,7,67,UPI,Laptop,Yes
+32,Rakesh Verma,49,Female,Mumbai,High,2023-10-26,56,Netflix,Premium,649,8,90,UPI,Mobile,Yes
+32,Rakesh Verma,49,Female,Mumbai,High,2023-10-26,57,Hotstar,Super,299,23,9,UPI,Laptop,Yes
+33,Tarun Singh,47,Male,Pune,Low,2024-03-05,58,SonyLiv,Premium,299,73,2,UPI,Tablet,No
+34,Ajay Kumar,34,Male,Mumbai,Low,2024-07-20,59,SonyLiv,Mobile,199,6,83,UPI,TV,No
+34,Ajay Kumar,34,Male,Mumbai,Low,2024-07-20,60,Netflix,Basic,199,37,9,Credit Card,Mobile,Yes
+35,Dinesh Patel,50,Male,Delhi,Medium,2023-04-13,61,SonyLiv,Mobile,199,6,68,Debit Card,Mobile,No
+35,Dinesh Patel,50,Male,Delhi,Medium,2023-04-13,62,Hotstar,Super,299,8,69,Debit Card,TV,No
+35,Dinesh Patel,50,Male,Delhi,Medium,2023-04-13,63,Zee5,Premium,199,18,25,Net Banking,Tablet,Yes
+36,Ganesh Rao,18,Male,Hyderabad,High,2024-06-26,64,SonyLiv,Premium,299,2,37,UPI,Laptop,Yes
+36,Ganesh Rao,18,Male,Hyderabad,High,2024-06-26,65,Amazon Prime,Annual,149,34,20,UPI,Laptop,Yes
+37,Vikram Reddy,31,Female,Bangalore,Low,2024-04-16,66,Zee5,Basic,99,69,14,Net Banking,Tablet,No
+38,Suresh Kumar,49,Male,Hyderabad,Medium,2024-01-31,67,Netflix,Premium,649,36,2,UPI,Laptop,Yes
+39,Raghu Nair,21,Female,Kolkata,Medium,2024-10-02,68,Netflix,Premium,649,20,2,UPI,Laptop,Yes
+39,Raghu Nair,21,Female,Kolkata,Medium,2024-10-02,69,Hotstar,Super,299,11,18,Net Banking,Laptop,Yes
+39,Raghu Nair,21,Female,Kolkata,Medium,2024-10-02,70,Amazon Prime,Annual,149,6,43,UPI,Laptop,Yes
+40,Mahesh Gupta,24,Female,Kolkata,High,2023-09-09,71,SonyLiv,Mobile,199,50,26,UPI,Tablet,Yes
+41,Ravi Kumar,36,Male,Delhi,Low,2023-10-02,72,Hotstar,Mobile,149,4,83,Debit Card,Tablet,No
+41,Ravi Kumar,36,Male,Delhi,Low,2023-10-02,73,Netflix,Premium,649,8,36,Credit Card,Laptop,No
+42,Aravind Raj,49,Male,Bangalore,Low,2024-10-08,74,SonyLiv,Mobile,199,14,7,UPI,Tablet,No
+43,Lokesh Sharma,53,Female,Pune,High,2024-05-25,75,Zee5,Premium,199,13,6,Debit Card,Tablet,Yes
+44,Tejas Verma,22,Female,Mumbai,Low,2023-09-03,76,Amazon Prime,Annual,149,31,10,Net Banking,Tablet,Yes
+44,Tejas Verma,22,Female,Mumbai,Low,2023-09-03,77,SonyLiv,Premium,299,63,5,Credit Card,Tablet,Yes
+45,Sandeep Kumar,40,Male,Pune,Medium,2024-05-12,78,Amazon Prime,Annual,149,10,21,Credit Card,Mobile,Yes
+45,Sandeep Kumar,40,Male,Pune,Medium,2024-05-12,79,Netflix,Basic,199,46,14,Net Banking,Laptop,Yes
+46,Praveen Rao,35,Female,Hyderabad,Low,2024-09-05,80,SonyLiv,Mobile,199,2,38,Credit Card,Tablet,Yes
+46,Praveen Rao,35,Female,Hyderabad,Low,2024-09-05,81,Netflix,Premium,649,4,49,UPI,TV,Yes
+46,Praveen Rao,35,Female,Hyderabad,Low,2024-09-05,82,Zee5,Basic,99,62,16,Debit Card,Mobile,No
+47,Roshan Singh,33,Female,Mumbai,High,2024-10-02,83,Zee5,Basic,99,42,21,Credit Card,TV,Yes
+47,Roshan Singh,33,Female,Mumbai,High,2024-10-02,84,Netflix,Standard,499,5,38,UPI,Laptop,Yes
+47,Roshan Singh,33,Female,Mumbai,High,2024-10-02,85,SonyLiv,Premium,299,40,25,Debit Card,TV,Yes
+48,Nitin Patel,31,Male,Kolkata,Low,2023-08-11,86,Amazon Prime,Annual,149,9,36,UPI,TV,No
+48,Nitin Patel,31,Male,Kolkata,Low,2023-08-11,87,SonyLiv,Premium,299,17,9,Credit Card,Mobile,Yes
+49,Kishore Kumar,21,Female,Bangalore,Low,2024-09-10,88,Zee5,Premium,199,2,66,Credit Card,TV,No
+49,Kishore Kumar,21,Female,Bangalore,Low,2024-09-10,89,Amazon Prime,Monthly,299,8,51,Net Banking,Tablet,No
+50,Uday Reddy,53,Male,Delhi,High,2023-08-21,90,Zee5,Premium,199,0,53,Credit Card,TV,Yes
+50,Uday Reddy,53,Male,Delhi,High,2023-08-21,91,Netflix,Basic,199,1,58,Debit Card,TV,Yes
+51,Neeraj Sharma,22,Female,Hyderabad,High,2023-07-24,92,Hotstar,Premium,499,7,31,Net Banking,Tablet,Yes
+52,Manoj Kumar,51,Female,Kolkata,Medium,2023-12-16,93,Zee5,Premium,199,5,49,Debit Card,Laptop,Yes
+53,Shashank Rao,36,Female,Mumbai,High,2024-06-08,94,Netflix,Standard,499,4,40,Net Banking,Mobile,Yes
+53,Shashank Rao,36,Female,Mumbai,High,2024-06-08,95,Amazon Prime,Annual,149,4,53,UPI,TV,Yes
+54,Anand Verma,26,Female,Pune,Low,2024-03-17,96,Amazon Prime,Monthly,299,3,47,UPI,Mobile,No
+54,Anand Verma,26,Female,Pune,Low,2024-03-17,97,Zee5,Premium,199,74,28,Debit Card,Mobile,Yes
+55,Bharath Nair,34,Female,Pune,High,2024-07-06,98,Netflix,Basic,199,13,1,UPI,Laptop,Yes
+55,Bharath Nair,34,Female,Pune,High,2024-07-06,99,Hotstar,Super,299,3,70,UPI,Mobile,Yes
+56,Chandan Kumar,37,Female,Pune,High,2023-10-21,100,Zee5,Premium,199,42,26,Debit Card,Mobile,Yes
+57,Darshan Patel,24,Female,Bangalore,Medium,2023-10-18,101,Netflix,Standard,499,72,26,Credit Card,TV,No
+58,Eshwar Rao,34,Female,Pune,Low,2023-02-28,102,Hotstar,Super,299,38,22,UPI,Tablet,No
+59,Farhan Khan,28,Male,Chennai,Low,2024-10-22,103,Hotstar,Mobile,149,4,56,Net Banking,Mobile,Yes
+59,Farhan Khan,28,Male,Chennai,Low,2024-10-22,104,Netflix,Premium,649,4,74,Debit Card,TV,No
+59,Farhan Khan,28,Male,Chennai,Low,2024-10-22,105,SonyLiv,Premium,299,73,20,Net Banking,Tablet,No
+60,Gautham Raj,40,Female,Pune,High,2023-06-26,106,SonyLiv,Premium,299,50,8,UPI,TV,No
+60,Gautham Raj,40,Female,Pune,High,2023-06-26,107,Amazon Prime,Monthly,299,0,33,UPI,Tablet,No
+61,Hemant Sharma,42,Male,Delhi,Low,2023-06-07,108,SonyLiv,Mobile,199,66,5,Net Banking,TV,Yes
+61,Hemant Sharma,42,Male,Delhi,Low,2023-06-07,109,Netflix,Premium,649,45,9,Debit Card,Laptop,Yes
+61,Hemant Sharma,42,Male,Delhi,Low,2023-06-07,110,Zee5,Premium,199,52,19,Debit Card,Mobile,Yes
+62,Irfan Ali,36,Female,Pune,Low,2023-09-30,111,Netflix,Standard,499,15,30,Debit Card,Mobile,Yes
+63,Jagdish Kumar,47,Male,Bangalore,Medium,2024-03-23,112,Hotstar,Mobile,149,12,23,UPI,Mobile,Yes
+64,Kaushik Patel,31,Male,Bangalore,Low,2023-10-27,113,Zee5,Premium,199,31,26,Credit Card,TV,No
+65,Lalit Verma,30,Female,Pune,Low,2023-03-17,114,Hotstar,Super,299,42,3,Net Banking,Tablet,No
+65,Lalit Verma,30,Female,Pune,Low,2023-03-17,115,SonyLiv,Mobile,199,4,31,Credit Card,Mobile,Yes
+66,Madhav Rao,37,Female,Pune,Low,2024-10-13,116,Zee5,Basic,99,4,70,UPI,TV,No
+66,Madhav Rao,37,Female,Pune,Low,2024-10-13,117,SonyLiv,Premium,299,3,42,Debit Card,TV,No
+67,Naman Gupta,46,Male,Chennai,Medium,2024-01-19,118,Zee5,Premium,199,74,19,Net Banking,Mobile,Yes
+68,Omkar Reddy,27,Male,Hyderabad,Medium,2023-11-04,119,Netflix,Basic,199,14,15,Credit Card,Laptop,Yes
+69,Pratik Shah,22,Female,Delhi,High,2024-06-26,120,Amazon Prime,Monthly,299,74,29,Net Banking,Tablet,No
+70,Qasim Khan,18,Female,Kolkata,Low,2024-09-23,121,Hotstar,Mobile,149,3,72,UPI,TV,Yes
+70,Qasim Khan,18,Female,Kolkata,Low,2024-09-23,122,Netflix,Standard,499,54,23,Net Banking,Mobile,No
+70,Qasim Khan,18,Female,Kolkata,Low,2024-09-23,123,SonyLiv,Premium,299,6,81,Net Banking,TV,No
+71,Rajat Sharma,39,Female,Kolkata,High,2023-11-19,124,SonyLiv,Mobile,199,4,43,Net Banking,TV,Yes
+72,Saket Kumar,51,Male,Mumbai,Low,2023-02-16,125,Hotstar,Premium,499,26,5,UPI,Laptop,No
+73,Tanish Verma,41,Male,Bangalore,High,2024-05-08,126,Netflix,Basic,199,48,24,UPI,Tablet,No
+74,Umesh Rao,22,Male,Chennai,High,2024-08-02,127,Zee5,Basic,99,65,21,Net Banking,Tablet,No
+74,Umesh Rao,22,Male,Chennai,High,2024-08-02,128,Hotstar,Super,299,60,3,Debit Card,TV,No
+75,Vatsal Patel,52,Female,Delhi,High,2023-02-12,129,Hotstar,Super,299,8,35,UPI,Laptop,Yes
+75,Vatsal Patel,52,Female,Delhi,High,2023-02-12,130,Netflix,Premium,649,24,7,Net Banking,Laptop,Yes
+76,Wasim Khan,45,Female,Mumbai,Medium,2023-05-29,131,Netflix,Premium,649,14,25,Debit Card,TV,No
+76,Wasim Khan,45,Female,Mumbai,Medium,2023-05-29,132,Amazon Prime,Annual,149,12,5,Net Banking,Tablet,No
+77,Yogesh Kumar,23,Male,Bangalore,Medium,2023-11-17,133,SonyLiv,Premium,299,60,22,Credit Card,Mobile,Yes
+78,Zaid Ali,24,Male,Chennai,High,2023-08-03,134,Hotstar,Super,299,2,48,Debit Card,Tablet,Yes
+79,Akhil Reddy,42,Female,Kolkata,High,2023-11-29,135,Hotstar,Premium,499,4,81,Debit Card,TV,No
+80,Balaji Raj,55,Male,Hyderabad,Medium,2024-08-20,136,Zee5,Basic,99,72,12,Debit Card,TV,No
+80,Balaji Raj,55,Male,Hyderabad,Medium,2024-08-20,137,Hotstar,Premium,499,63,2,Credit Card,Tablet,Yes
+81,Chirag Shah,37,Male,Bangalore,Medium,2023-09-07,138,Hotstar,Super,299,5,60,UPI,Mobile,Yes
+82,Dev Patel,40,Female,Chennai,Medium,2024-01-30,139,Netflix,Premium,649,8,41,UPI,Laptop,Yes
+82,Dev Patel,40,Female,Chennai,Medium,2024-01-30,140,SonyLiv,Premium,299,3,50,Net Banking,Mobile,No
+83,Eshan Kumar,29,Male,Delhi,Low,2024-09-29,141,Netflix,Premium,649,0,48,Debit Card,Tablet,Yes
+83,Eshan Kumar,29,Male,Delhi,Low,2024-09-29,142,SonyLiv,Mobile,199,8,66,Credit Card,Mobile,No
+84,Faiz Khan,26,Female,Hyderabad,Medium,2024-10-21,143,Zee5,Basic,99,7,65,Net Banking,TV,Yes
+84,Faiz Khan,26,Female,Hyderabad,Medium,2024-10-21,144,SonyLiv,Mobile,199,8,72,Debit Card,Tablet,Yes
+85,Girish Rao,32,Male,Chennai,High,2024-10-18,145,SonyLiv,Mobile,199,13,25,UPI,Mobile,No
+85,Girish Rao,32,Male,Chennai,High,2024-10-18,146,Netflix,Premium,649,3,37,Net Banking,Tablet,No
+86,Hitesh Sharma,38,Male,Delhi,Low,2024-11-24,147,SonyLiv,Mobile,199,43,26,UPI,Laptop,No
+87,Indrajit Kumar,36,Female,Chennai,Medium,2024-07-12,148,Netflix,Standard,499,0,73,Net Banking,Laptop,Yes
+88,Jay Patel,47,Female,Bangalore,Low,2024-01-12,149,Hotstar,Premium,499,7,34,UPI,Tablet,Yes
+89,Kunal Verma,27,Female,Delhi,Medium,2024-04-13,150,Hotstar,Mobile,149,53,10,Net Banking,Mobile,Yes
+90,Lakshay Gupta,20,Female,Bangalore,Medium,2023-12-21,151,SonyLiv,Premium,299,63,15,Net Banking,Laptop,No
+90,Lakshay Gupta,20,Female,Bangalore,Medium,2023-12-21,152,Netflix,Basic,199,3,64,UPI,Tablet,No
+90,Lakshay Gupta,20,Female,Bangalore,Medium,2023-12-21,153,Hotstar,Super,299,12,22,Credit Card,Tablet,Yes
+91,Mayank Sharma,27,Male,Chennai,Low,2024-07-12,154,Hotstar,Super,299,7,88,Credit Card,TV,No
+91,Mayank Sharma,27,Male,Chennai,Low,2024-07-12,155,Amazon Prime,Annual,149,61,3,UPI,Laptop,No
+91,Mayank Sharma,27,Male,Chennai,Low,2024-07-12,156,SonyLiv,Mobile,199,41,4,Net Banking,TV,No
+92,Nilesh Rao,47,Male,Bangalore,High,2023-07-22,157,Netflix,Premium,649,69,23,Credit Card,Tablet,No
+92,Nilesh Rao,47,Male,Bangalore,High,2023-07-22,158,Amazon Prime,Annual,149,44,24,Debit Card,Laptop,No
+92,Nilesh Rao,47,Male,Bangalore,High,2023-07-22,159,Zee5,Basic,99,56,8,Credit Card,TV,Yes
+93,Parth Shah,55,Female,Delhi,Medium,2023-05-03,160,Amazon Prime,Annual,149,0,86,Credit Card,TV,Yes
+93,Parth Shah,55,Female,Delhi,Medium,2023-05-03,161,Zee5,Basic,99,74,29,Debit Card,Laptop,No
+94,Rohit Kumar,31,Female,Chennai,Low,2024-06-12,162,Zee5,Premium,199,71,8,UPI,Tablet,No
+95,Shivam Verma,54,Male,Pune,High,2024-06-20,163,Hotstar,Premium,499,62,30,Credit Card,Laptop,No
+95,Shivam Verma,54,Male,Pune,High,2024-06-20,164,Netflix,Basic,199,41,8,Debit Card,Tablet,No
+95,Shivam Verma,54,Male,Pune,High,2024-06-20,165,Amazon Prime,Annual,149,5,84,Net Banking,Tablet,No
+96,Tanmay Gupta,55,Female,Bangalore,High,2023-04-17,166,Hotstar,Mobile,149,38,5,Debit Card,TV,Yes
+97,Utkarsh Sharma,49,Male,Chennai,High,2023-05-20,167,SonyLiv,Premium,299,64,3,Net Banking,TV,Yes
+98,Vishal Rao,48,Female,Kolkata,High,2024-11-10,168,SonyLiv,Premium,299,47,15,Net Banking,TV,No
+98,Vishal Rao,48,Female,Kolkata,High,2024-11-10,169,Amazon Prime,Annual,149,9,62,Credit Card,Tablet,No
+99,Yatin Patel,32,Male,Hyderabad,High,2023-10-04,170,Hotstar,Mobile,149,4,84,Debit Card,TV,Yes
+99,Yatin Patel,32,Male,Hyderabad,High,2023-10-04,171,Netflix,Basic,199,9,47,Credit Card,Mobile,Yes
+100,Zeeshan Khan,25,Female,Chennai,Low,2024-06-18,172,Amazon Prime,Monthly,299,5,76,Debit Card,TV,No
+101,Aman Sharma,19,Male,Delhi,High,2024-09-06,173,Netflix,Premium,649,32,7,Credit Card,Laptop,Yes
+101,Aman Sharma,19,Male,Delhi,High,2024-09-06,174,Zee5,Basic,99,32,10,Credit Card,Mobile,No
+102,Bhavesh Patel,53,Female,Delhi,High,2024-06-01,175,Zee5,Premium,199,2,52,Debit Card,Mobile,No
+102,Bhavesh Patel,53,Female,Delhi,High,2024-06-01,176,Amazon Prime,Monthly,299,41,27,Credit Card,Mobile,No
+103,Chetan Kumar,45,Male,Bangalore,Medium,2024-03-30,177,Zee5,Premium,199,42,1,UPI,Mobile,Yes
+103,Chetan Kumar,45,Male,Bangalore,Medium,2024-03-30,178,Hotstar,Mobile,149,57,19,UPI,Mobile,Yes
+104,Dhruv Verma,28,Male,Delhi,High,2024-11-22,179,Zee5,Basic,99,3,70,Debit Card,Mobile,No
+104,Dhruv Verma,28,Male,Delhi,High,2024-11-22,180,Amazon Prime,Annual,149,4,90,Credit Card,Mobile,No
+104,Dhruv Verma,28,Male,Delhi,High,2024-11-22,181,Netflix,Standard,499,5,59,Net Banking,Mobile,No
+105,Eklavya Rao,43,Male,Pune,High,2023-12-31,182,Amazon Prime,Annual,149,4,65,Debit Card,TV,No
+105,Eklavya Rao,43,Male,Pune,High,2023-12-31,183,SonyLiv,Premium,299,34,24,Credit Card,Mobile,No
+106,Faisal Khan,46,Male,Pune,High,2024-02-02,184,Zee5,Basic,99,3,49,UPI,Tablet,Yes
+106,Faisal Khan,46,Male,Pune,High,2024-02-02,185,Hotstar,Mobile,149,31,2,Debit Card,Tablet,No
+107,Gaurav Sharma,32,Male,Bangalore,Medium,2024-10-04,186,Amazon Prime,Monthly,299,69,19,UPI,Mobile,No
+108,Hardik Patel,33,Male,Pune,High,2024-07-06,187,Hotstar,Mobile,149,1,56,Net Banking,Mobile,Yes
+108,Hardik Patel,33,Male,Pune,High,2024-07-06,188,SonyLiv,Mobile,199,7,60,Credit Card,Laptop,Yes
+109,Ishan Kumar,24,Male,Bangalore,High,2024-11-25,189,SonyLiv,Premium,299,3,66,Net Banking,Mobile,Yes
+109,Ishan Kumar,24,Male,Bangalore,High,2024-11-25,190,Amazon Prime,Monthly,299,3,49,Net Banking,Laptop,Yes
+109,Ishan Kumar,24,Male,Bangalore,High,2024-11-25,191,Netflix,Standard,499,47,30,Net Banking,Laptop,No
+110,Jatin Verma,25,Female,Kolkata,Low,2023-12-05,192,Netflix,Basic,199,49,8,UPI,TV,Yes
+111,Krish Gupta,26,Male,Kolkata,Medium,2024-10-16,193,Hotstar,Super,299,5,37,Net Banking,Laptop,No
+111,Krish Gupta,26,Male,Kolkata,Medium,2024-10-16,194,Amazon Prime,Annual,149,0,63,UPI,Laptop,No
+112,Laksh Sharma,54,Female,Mumbai,Low,2024-09-30,195,Amazon Prime,Annual,149,36,23,UPI,Tablet,No
+112,Laksh Sharma,54,Female,Mumbai,Low,2024-09-30,196,Zee5,Basic,99,1,51,Debit Card,Mobile,No
+113,Mitesh Rao,42,Female,Mumbai,High,2023-07-10,197,Amazon Prime,Monthly,299,33,11,Debit Card,Laptop,Yes
+113,Mitesh Rao,42,Female,Mumbai,High,2023-07-10,198,Zee5,Basic,99,12,17,UPI,TV,Yes
+114,Nakul Patel,19,Female,Kolkata,Medium,2024-06-18,199,Zee5,Premium,199,53,3,Debit Card,Laptop,No
+114,Nakul Patel,19,Female,Kolkata,Medium,2024-06-18,200,Hotstar,Super,299,16,12,Net Banking,Laptop,Yes
+114,Nakul Patel,19,Female,Kolkata,Medium,2024-06-18,201,Amazon Prime,Monthly,299,56,10,Credit Card,Laptop,Yes
+115,Pratik Kumar,55,Female,Delhi,High,2023-06-08,202,Amazon Prime,Monthly,299,47,18,Net Banking,Mobile,No
+116,Raghav Verma,34,Female,Kolkata,Medium,2023-02-11,203,Amazon Prime,Monthly,299,1,76,UPI,TV,Yes
+117,Shiv Rao,47,Male,Mumbai,Medium,2023-10-11,204,Zee5,Premium,199,8,70,Debit Card,Laptop,Yes
+117,Shiv Rao,47,Male,Mumbai,Medium,2023-10-11,205,Hotstar,Super,299,28,12,Net Banking,Mobile,Yes
+117,Shiv Rao,47,Male,Mumbai,Medium,2023-10-11,206,Amazon Prime,Annual,149,2,63,Credit Card,Mobile,No
+118,Tushar Sharma,43,Male,Pune,Medium,2023-09-23,207,Hotstar,Premium,499,16,11,UPI,Mobile,No
+118,Tushar Sharma,43,Male,Pune,Medium,2023-09-23,208,SonyLiv,Mobile,199,6,73,Credit Card,Mobile,No
+118,Tushar Sharma,43,Male,Pune,Medium,2023-09-23,209,Amazon Prime,Annual,149,50,27,Net Banking,Laptop,No
+119,Vivek Patel,41,Male,Mumbai,Medium,2024-05-09,210,Zee5,Basic,99,7,69,UPI,Mobile,No
+119,Vivek Patel,41,Male,Mumbai,Medium,2024-05-09,211,Hotstar,Super,299,6,84,Net Banking,Mobile,Yes
+119,Vivek Patel,41,Male,Mumbai,Medium,2024-05-09,212,Netflix,Premium,649,61,15,UPI,Mobile,No
+120,Yuvraj Kumar,25,Female,Hyderabad,Low,2023-09-11,213,Netflix,Basic,199,72,12,Net Banking,Laptop,No
+120,Yuvraj Kumar,25,Female,Hyderabad,Low,2023-09-11,214,Hotstar,Mobile,149,49,24,Net Banking,TV,Yes
+120,Yuvraj Kumar,25,Female,Hyderabad,Low,2023-09-11,215,Zee5,Basic,99,13,30,Debit Card,TV,Yes
+121,Zubin Khan,40,Female,Hyderabad,Low,2024-05-11,216,Netflix,Premium,649,44,11,UPI,Laptop,No
+121,Zubin Khan,40,Female,Hyderabad,Low,2024-05-11,217,Zee5,Basic,99,2,31,Net Banking,TV,No
+122,Arpit Sharma,48,Male,Bangalore,Medium,2023-05-17,218,Netflix,Basic,199,64,7,UPI,Laptop,Yes
+122,Arpit Sharma,48,Male,Bangalore,Medium,2023-05-17,219,Amazon Prime,Annual,149,43,21,Debit Card,TV,No
+123,Bhanu Patel,23,Male,Kolkata,Low,2023-12-16,220,Zee5,Premium,199,3,63,Net Banking,Mobile,No
+123,Bhanu Patel,23,Male,Kolkata,Low,2023-12-16,221,SonyLiv,Premium,299,67,7,UPI,Tablet,Yes
+124,Charan Kumar,19,Female,Hyderabad,High,2023-04-16,222,Zee5,Basic,99,34,11,Debit Card,Mobile,No
+124,Charan Kumar,19,Female,Hyderabad,High,2023-04-16,223,Netflix,Standard,499,25,14,Credit Card,Tablet,No
+125,Dheeraj Verma,43,Female,Chennai,Medium,2023-07-24,224,Amazon Prime,Annual,149,1,37,UPI,Tablet,No
+125,Dheeraj Verma,43,Female,Chennai,Medium,2023-07-24,225,Netflix,Standard,499,29,29,Debit Card,Laptop,Yes
+125,Dheeraj Verma,43,Female,Chennai,Medium,2023-07-24,226,Hotstar,Super,299,2,41,Net Banking,Laptop,Yes
+126,Eshaan Rao,38,Male,Mumbai,High,2024-01-22,227,SonyLiv,Premium,299,2,77,UPI,Mobile,Yes
+126,Eshaan Rao,38,Male,Mumbai,High,2024-01-22,228,Amazon Prime,Annual,149,15,14,Credit Card,Mobile,Yes
+127,Firoz Khan,55,Female,Pune,High,2024-04-30,229,Zee5,Basic,99,8,84,Credit Card,TV,No
+127,Firoz Khan,55,Female,Pune,High,2024-04-30,230,Hotstar,Mobile,149,6,49,Debit Card,Laptop,No
+128,Gagan Sharma,28,Female,Hyderabad,Medium,2024-05-09,231,SonyLiv,Premium,299,21,6,UPI,Laptop,Yes
+129,Harshit Patel,37,Male,Bangalore,Low,2024-10-04,232,Zee5,Premium,199,5,66,Debit Card,Mobile,Yes
+129,Harshit Patel,37,Male,Bangalore,Low,2024-10-04,233,SonyLiv,Mobile,199,42,24,UPI,Laptop,No
+130,Ilesh Kumar,26,Male,Pune,High,2023-09-07,234,Amazon Prime,Monthly,299,13,26,Credit Card,Tablet,Yes
+131,Jai Verma,42,Female,Mumbai,Medium,2023-03-17,235,SonyLiv,Mobile,199,3,59,UPI,Laptop,Yes
+132,Kartik Gupta,33,Female,Hyderabad,High,2023-04-08,236,Hotstar,Premium,499,70,12,Credit Card,Laptop,No
+133,Lohith Sharma,40,Male,Chennai,High,2023-09-08,237,Zee5,Basic,99,1,53,UPI,Laptop,No
+134,Mukul Rao,38,Female,Hyderabad,Low,2024-07-15,238,Hotstar,Premium,499,29,0,Debit Card,Tablet,Yes
+135,Nikhil Patel,54,Male,Hyderabad,Medium,2023-04-17,239,Hotstar,Super,299,10,22,UPI,Tablet,Yes
+136,Piyush Kumar,47,Female,Delhi,Medium,2023-12-18,240,Amazon Prime,Annual,149,42,6,Debit Card,Tablet,Yes
+137,Ritesh Verma,49,Female,Bangalore,High,2024-07-06,241,Amazon Prime,Monthly,299,61,20,Credit Card,Tablet,Yes
+137,Ritesh Verma,49,Female,Bangalore,High,2024-07-06,242,SonyLiv,Mobile,199,5,36,Credit Card,Tablet,No
+137,Ritesh Verma,49,Female,Bangalore,High,2024-07-06,243,Netflix,Basic,199,50,3,Credit Card,TV,No
+138,Shrey Gupta,27,Male,Chennai,Low,2023-11-30,244,Hotstar,Mobile,149,50,27,Debit Card,Tablet,No
+139,Tej Sharma,36,Female,Delhi,High,2024-09-03,245,Netflix,Basic,199,0,31,Net Banking,Laptop,No
+139,Tej Sharma,36,Female,Delhi,High,2024-09-03,246,Amazon Prime,Monthly,299,1,44,Net Banking,TV,No
+140,Udit Rao,38,Male,Kolkata,Low,2024-01-12,247,Zee5,Premium,199,63,7,Debit Card,Mobile,Yes
+140,Udit Rao,38,Male,Kolkata,Low,2024-01-12,248,SonyLiv,Mobile,199,6,48,Credit Card,Tablet,Yes
+141,Varsha Patel,44,Female,Hyderabad,Medium,2023-10-23,249,Zee5,Premium,199,5,43,Net Banking,Tablet,Yes
+141,Varsha Patel,44,Female,Hyderabad,Medium,2023-10-23,250,Amazon Prime,Annual,149,42,24,Net Banking,TV,Yes
+142,Yash Kumar,20,Male,Chennai,Medium,2024-05-04,251,SonyLiv,Mobile,199,26,3,UPI,TV,No
+143,Zara Khan,30,Male,Mumbai,High,2024-08-22,252,Netflix,Standard,499,54,17,Debit Card,Laptop,Yes
+144,Aditi Sharma,28,Male,Chennai,Low,2023-11-03,253,Zee5,Basic,99,28,21,Net Banking,Tablet,Yes
+144,Aditi Sharma,28,Male,Chennai,Low,2023-11-03,254,SonyLiv,Premium,299,5,75,Credit Card,Laptop,Yes
+144,Aditi Sharma,28,Male,Chennai,Low,2023-11-03,255,Hotstar,Mobile,149,27,22,Net Banking,Laptop,No
+145,Bhavana Patel,43,Female,Bangalore,Medium,2024-03-09,256,Zee5,Premium,199,6,74,UPI,TV,Yes
+145,Bhavana Patel,43,Female,Bangalore,Medium,2024-03-09,257,Hotstar,Mobile,149,22,7,UPI,TV,No
+146,Charul Verma,19,Female,Pune,Low,2023-12-07,258,Hotstar,Super,299,1,34,Credit Card,Laptop,No
+146,Charul Verma,19,Female,Pune,Low,2023-12-07,259,Amazon Prime,Annual,149,6,79,Debit Card,Mobile,Yes
+147,Divya Rao,43,Female,Hyderabad,High,2024-03-11,260,Hotstar,Mobile,149,7,60,Debit Card,Mobile,Yes
+147,Divya Rao,43,Female,Hyderabad,High,2024-03-11,261,Amazon Prime,Annual,149,70,3,Debit Card,Laptop,Yes
+147,Divya Rao,43,Female,Hyderabad,High,2024-03-11,262,SonyLiv,Mobile,199,46,1,Debit Card,Tablet,Yes
+148,Esha Gupta,39,Male,Pune,Medium,2023-02-20,263,Netflix,Premium,649,7,86,UPI,TV,Yes
+149,Fatima Khan,43,Male,Hyderabad,Low,2024-10-31,264,Netflix,Premium,649,8,56,Credit Card,Mobile,Yes
+150,Gayathri Sharma,50,Male,Hyderabad,High,2024-01-17,265,Hotstar,Super,299,7,41,Net Banking,Laptop,Yes
+150,Gayathri Sharma,50,Male,Hyderabad,High,2024-01-17,266,Zee5,Basic,99,27,5,Debit Card,TV,No
+150,Gayathri Sharma,50,Male,Hyderabad,High,2024-01-17,267,SonyLiv,Mobile,199,68,5,Net Banking,Mobile,Yes
+151,Harini Patel,37,Male,Hyderabad,Medium,2024-05-06,268,Hotstar,Mobile,149,54,14,Credit Card,Laptop,No
+152,Ishita Verma,29,Female,Mumbai,High,2023-12-15,269,SonyLiv,Mobile,199,61,1,Debit Card,Tablet,Yes
+153,Janani Rao,34,Male,Pune,High,2023-12-06,270,Amazon Prime,Monthly,299,31,19,Net Banking,Tablet,No
+154,Kavya Gupta,38,Female,Bangalore,Medium,2023-11-18,271,SonyLiv,Mobile,199,73,17,Net Banking,Tablet,No
+154,Kavya Gupta,38,Female,Bangalore,Medium,2023-11-18,272,Hotstar,Premium,499,4,75,UPI,Tablet,Yes
+154,Kavya Gupta,38,Female,Bangalore,Medium,2023-11-18,273,Amazon Prime,Monthly,299,72,15,Debit Card,TV,Yes
+155,Lavanya Sharma,23,Female,Pune,Low,2023-12-03,274,SonyLiv,Mobile,199,2,70,Credit Card,Mobile,Yes
+156,Megha Patel,53,Male,Mumbai,Medium,2024-03-17,275,Hotstar,Super,299,7,83,Debit Card,Mobile,Yes
+156,Megha Patel,53,Male,Mumbai,Medium,2024-03-17,276,Netflix,Basic,199,71,21,Debit Card,Tablet,Yes
+156,Megha Patel,53,Male,Mumbai,Medium,2024-03-17,277,SonyLiv,Premium,299,6,76,Net Banking,Tablet,No
+157,Nandini Verma,38,Female,Kolkata,High,2024-08-30,278,SonyLiv,Premium,299,58,26,Debit Card,Laptop,No
+158,Oviya Rao,37,Male,Delhi,Low,2023-09-04,279,SonyLiv,Premium,299,49,4,Debit Card,TV,Yes
+158,Oviya Rao,37,Male,Delhi,Low,2023-09-04,280,Amazon Prime,Monthly,299,2,43,Debit Card,TV,No
+159,Pooja Gupta,24,Male,Mumbai,High,2024-01-06,281,Netflix,Premium,649,9,90,Net Banking,Mobile,Yes
+160,Ritika Sharma,23,Female,Pune,High,2023-06-14,282,Netflix,Standard,499,23,0,Credit Card,Tablet,No
+160,Ritika Sharma,23,Female,Pune,High,2023-06-14,283,SonyLiv,Mobile,199,0,84,UPI,Laptop,No
+161,Sneha Patel,44,Female,Hyderabad,Low,2024-09-15,284,Netflix,Standard,499,34,24,UPI,TV,Yes
+161,Sneha Patel,44,Female,Hyderabad,Low,2024-09-15,285,Zee5,Premium,199,60,10,Credit Card,Tablet,Yes
+161,Sneha Patel,44,Female,Hyderabad,Low,2024-09-15,286,SonyLiv,Premium,299,3,79,UPI,Tablet,No
+162,Tanvi Verma,19,Female,Kolkata,Medium,2023-06-02,287,Amazon Prime,Monthly,299,8,72,Net Banking,Laptop,No
+162,Tanvi Verma,19,Female,Kolkata,Medium,2023-06-02,288,Zee5,Basic,99,6,49,Net Banking,TV,No
+163,Urmila Rao,21,Female,Pune,Medium,2023-07-20,289,Amazon Prime,Monthly,299,5,89,Debit Card,Mobile,No
+164,Vaishnavi Gupta,18,Female,Bangalore,Medium,2024-10-05,290,Netflix,Premium,649,16,15,UPI,Tablet,Yes
+165,Yamini Sharma,21,Male,Mumbai,High,2024-01-17,291,Netflix,Basic,199,6,73,Debit Card,TV,No
+165,Yamini Sharma,21,Male,Mumbai,High,2024-01-17,292,Amazon Prime,Annual,149,52,15,Net Banking,TV,Yes
+166,Zoya Khan,45,Female,Bangalore,Medium,2024-03-01,293,Netflix,Premium,649,5,66,Net Banking,Tablet,Yes
+167,Ananya Sharma,21,Male,Pune,High,2024-05-19,294,Amazon Prime,Monthly,299,0,78,Credit Card,TV,No
+167,Ananya Sharma,21,Male,Pune,High,2024-05-19,295,Netflix,Standard,499,7,81,UPI,Mobile,No
+168,Bhavya Patel,30,Male,Kolkata,Low,2023-03-05,296,Hotstar,Premium,499,6,81,UPI,TV,Yes
+168,Bhavya Patel,30,Male,Kolkata,Low,2023-03-05,297,Netflix,Premium,649,8,49,UPI,Tablet,Yes
+168,Bhavya Patel,30,Male,Kolkata,Low,2023-03-05,298,Zee5,Premium,199,20,15,Debit Card,Laptop,No
+169,Chaitra Verma,55,Female,Mumbai,Medium,2024-09-20,299,Netflix,Premium,649,35,28,UPI,Laptop,No
+169,Chaitra Verma,55,Female,Mumbai,Medium,2024-09-20,300,Hotstar,Super,299,28,8,UPI,Laptop,Yes
+169,Chaitra Verma,55,Female,Mumbai,Medium,2024-09-20,301,SonyLiv,Premium,299,25,12,Debit Card,Laptop,No
+170,Deepika Rao,39,Male,Mumbai,Medium,2023-04-19,302,Amazon Prime,Annual,149,5,82,Credit Card,Mobile,Yes
+170,Deepika Rao,39,Male,Mumbai,Medium,2023-04-19,303,SonyLiv,Mobile,199,1,86,Debit Card,TV,Yes
+170,Deepika Rao,39,Male,Mumbai,Medium,2023-04-19,304,Netflix,Basic,199,54,5,Credit Card,Mobile,No
+171,Ekta Gupta,49,Female,Mumbai,Medium,2024-07-23,305,Hotstar,Premium,499,19,11,Debit Card,Tablet,Yes
+171,Ekta Gupta,49,Female,Mumbai,Medium,2024-07-23,306,SonyLiv,Mobile,199,3,49,Credit Card,Tablet,No
+172,Farzana Khan,22,Male,Delhi,Low,2024-05-24,307,SonyLiv,Mobile,199,9,44,Net Banking,TV,Yes
+173,Geetha Sharma,42,Male,Hyderabad,Low,2023-10-14,308,Amazon Prime,Monthly,299,73,24,Debit Card,Tablet,Yes
+173,Geetha Sharma,42,Male,Hyderabad,Low,2023-10-14,309,SonyLiv,Mobile,199,11,10,UPI,TV,Yes
+174,Hema Patel,33,Female,Delhi,Medium,2023-01-21,310,Zee5,Premium,199,9,57,Credit Card,Mobile,Yes
+175,Indu Verma,51,Female,Pune,High,2023-08-07,311,SonyLiv,Premium,299,8,64,Debit Card,TV,No
+175,Indu Verma,51,Female,Pune,High,2023-08-07,312,Netflix,Basic,199,56,15,UPI,Mobile,Yes
+176,Jhanvi Rao,47,Female,Mumbai,Low,2023-02-11,313,SonyLiv,Mobile,199,5,88,Credit Card,Laptop,No
+176,Jhanvi Rao,47,Female,Mumbai,Low,2023-02-11,314,Amazon Prime,Annual,149,0,61,UPI,TV,No
+176,Jhanvi Rao,47,Female,Mumbai,Low,2023-02-11,315,Netflix,Standard,499,5,33,Net Banking,TV,No
+177,Keerthana Gupta,53,Female,Delhi,High,2024-03-24,316,Hotstar,Super,299,8,55,UPI,Tablet,Yes
+177,Keerthana Gupta,53,Female,Delhi,High,2024-03-24,317,Netflix,Premium,649,32,12,Net Banking,Mobile,Yes
+178,Lekha Sharma,47,Male,Delhi,Low,2024-06-09,318,Hotstar,Premium,499,69,26,UPI,Laptop,Yes
+179,Monika Patel,28,Male,Chennai,Low,2024-02-23,319,Amazon Prime,Annual,149,59,16,Net Banking,TV,No
+180,Nisha Verma,45,Female,Hyderabad,High,2023-06-26,320,SonyLiv,Premium,299,9,89,Credit Card,Mobile,Yes
+180,Nisha Verma,45,Female,Hyderabad,High,2023-06-26,321,Hotstar,Super,299,36,27,Net Banking,TV,No
+180,Nisha Verma,45,Female,Hyderabad,High,2023-06-26,322,Zee5,Basic,99,46,30,UPI,Mobile,Yes
+181,Oorja Rao,29,Male,Bangalore,Low,2023-04-26,323,Netflix,Basic,199,73,6,Net Banking,Tablet,No
+182,Preethi Gupta,28,Female,Hyderabad,Medium,2023-10-09,324,Netflix,Standard,499,7,63,Net Banking,Laptop,Yes
+182,Preethi Gupta,28,Female,Hyderabad,Medium,2023-10-09,325,SonyLiv,Premium,299,62,9,Net Banking,Mobile,No
+183,Rashmi Sharma,34,Female,Mumbai,High,2024-11-27,326,Hotstar,Premium,499,33,5,Debit Card,Laptop,Yes
+184,Shilpa Patel,18,Female,Hyderabad,High,2024-09-12,327,Zee5,Premium,199,64,12,Net Banking,TV,Yes
+184,Shilpa Patel,18,Female,Hyderabad,High,2024-09-12,328,Amazon Prime,Annual,149,60,6,Net Banking,Laptop,Yes
+185,Trisha Verma,20,Female,Delhi,High,2023-08-05,329,SonyLiv,Mobile,199,4,66,Credit Card,Tablet,No
+186,Uma Rao,49,Male,Delhi,Medium,2023-04-30,330,Amazon Prime,Annual,149,68,17,Net Banking,Laptop,Yes
+187,Vidya Gupta,18,Male,Mumbai,Low,2023-06-15,331,Zee5,Premium,199,6,74,Net Banking,Laptop,Yes
+187,Vidya Gupta,18,Male,Mumbai,Low,2023-06-15,332,SonyLiv,Premium,299,68,23,Credit Card,Laptop,Yes
+188,Yukti Sharma,45,Male,Mumbai,Medium,2023-08-28,333,Amazon Prime,Annual,149,3,64,Debit Card,Tablet,Yes
+188,Yukti Sharma,45,Male,Mumbai,Medium,2023-08-28,334,Hotstar,Premium,499,11,30,Debit Card,Mobile,Yes
+188,Yukti Sharma,45,Male,Mumbai,Medium,2023-08-28,335,Netflix,Basic,199,51,4,Debit Card,Mobile,Yes
+189,Zeenat Khan,47,Male,Kolkata,Low,2024-09-29,336,SonyLiv,Mobile,199,5,84,Net Banking,Tablet,Yes
+189,Zeenat Khan,47,Male,Kolkata,Low,2024-09-29,337,Zee5,Premium,199,8,80,Credit Card,Laptop,No
+189,Zeenat Khan,47,Male,Kolkata,Low,2024-09-29,338,Netflix,Standard,499,21,9,UPI,Mobile,Yes
+190,Aarohi Sharma,28,Female,Hyderabad,Low,2024-09-12,339,Hotstar,Mobile,149,8,74,Net Banking,TV,No
+191,Bhumika Patel,50,Female,Pune,High,2023-12-15,340,SonyLiv,Premium,299,61,20,Credit Card,Tablet,Yes
+191,Bhumika Patel,50,Female,Pune,High,2023-12-15,341,Amazon Prime,Monthly,299,64,9,Debit Card,TV,No
+191,Bhumika Patel,50,Female,Pune,High,2023-12-15,342,Netflix,Premium,649,1,37,Credit Card,Laptop,Yes
+192,Chandana Verma,26,Male,Kolkata,Medium,2024-11-07,343,Amazon Prime,Annual,149,8,68,Credit Card,TV,No
+193,Diksha Rao,55,Male,Bangalore,Low,2023-04-26,344,Zee5,Premium,199,0,86,Net Banking,Laptop,Yes
+193,Diksha Rao,55,Male,Bangalore,Low,2023-04-26,345,Hotstar,Super,299,28,21,Credit Card,TV,Yes
+194,Elina Gupta,47,Female,Kolkata,High,2023-02-19,346,Netflix,Standard,499,17,25,Debit Card,Mobile,Yes
+194,Elina Gupta,47,Female,Kolkata,High,2023-02-19,347,SonyLiv,Mobile,199,60,17,UPI,Laptop,No
+194,Elina Gupta,47,Female,Kolkata,High,2023-02-19,348,Hotstar,Mobile,149,5,53,Net Banking,Laptop,Yes
+195,Falguni Khan,19,Female,Mumbai,Low,2024-11-04,349,Hotstar,Super,299,9,75,UPI,Tablet,Yes
+195,Falguni Khan,19,Female,Mumbai,Low,2024-11-04,350,Netflix,Basic,199,6,61,Credit Card,TV,No
+196,Gowri Sharma,25,Male,Bangalore,Medium,2024-08-28,351,Zee5,Premium,199,11,9,UPI,Mobile,Yes
+197,Himani Patel,45,Male,Mumbai,Medium,2024-03-17,352,Hotstar,Super,299,52,21,Net Banking,Laptop,No
+197,Himani Patel,45,Male,Mumbai,Medium,2024-03-17,353,Amazon Prime,Annual,149,30,12,UPI,TV,Yes
+198,Ira Verma,38,Male,Hyderabad,Medium,2023-09-29,354,SonyLiv,Mobile,199,45,16,Credit Card,Mobile,Yes
+198,Ira Verma,38,Male,Hyderabad,Medium,2023-09-29,355,Amazon Prime,Annual,149,7,39,Net Banking,Tablet,Yes
+198,Ira Verma,38,Male,Hyderabad,Medium,2023-09-29,356,Netflix,Basic,199,22,9,UPI,Laptop,Yes
+199,Jyothi Rao,27,Male,Chennai,High,2023-10-21,357,Hotstar,Premium,499,5,82,UPI,Laptop,No
+199,Jyothi Rao,27,Male,Chennai,High,2023-10-21,358,Zee5,Basic,99,2,40,Net Banking,Mobile,No
+200,Komal Gupta,34,Male,Mumbai,Medium,2024-08-22,359,Hotstar,Premium,499,26,23,UPI,TV,No
+200,Komal Gupta,34,Male,Mumbai,Medium,2024-08-22,360,SonyLiv,Mobile,199,35,2,UPI,TV,No
+200,Komal Gupta,34,Male,Mumbai,Medium,2024-08-22,361,Amazon Prime,Monthly,299,4,80,Net Banking,Laptop,Yes
+201,Lisha Sharma,35,Male,Mumbai,Medium,2023-01-18,362,Netflix,Basic,199,69,6,UPI,Mobile,Yes
+201,Lisha Sharma,35,Male,Mumbai,Medium,2023-01-18,363,Zee5,Premium,199,8,76,Credit Card,Mobile,No
+202,Manya Patel,38,Male,Pune,Low,2024-10-07,364,Zee5,Basic,99,26,13,Net Banking,Mobile,No
+202,Manya Patel,38,Male,Pune,Low,2024-10-07,365,Amazon Prime,Annual,149,46,27,Net Banking,Tablet,No
+203,Neha Verma,31,Female,Hyderabad,High,2024-07-23,366,Hotstar,Mobile,149,58,0,Debit Card,Laptop,No
+203,Neha Verma,31,Female,Hyderabad,High,2024-07-23,367,SonyLiv,Premium,299,4,38,Debit Card,TV,Yes
+203,Neha Verma,31,Female,Hyderabad,High,2024-07-23,368,Zee5,Premium,199,55,20,UPI,Mobile,Yes
+204,Ojasvi Rao,46,Female,Mumbai,Medium,2023-08-24,369,Zee5,Basic,99,1,42,UPI,TV,Yes
+205,Pallavi Gupta,43,Female,Hyderabad,Medium,2023-02-21,370,Zee5,Premium,199,74,4,Net Banking,Mobile,No
+205,Pallavi Gupta,43,Female,Hyderabad,Medium,2023-02-21,371,Netflix,Premium,649,43,29,Net Banking,Mobile,Yes
+205,Pallavi Gupta,43,Female,Hyderabad,Medium,2023-02-21,372,SonyLiv,Premium,299,4,63,Credit Card,Mobile,No
+206,Ruchi Sharma,53,Male,Bangalore,High,2023-11-27,373,Zee5,Basic,99,6,67,UPI,Mobile,Yes
+206,Ruchi Sharma,53,Male,Bangalore,High,2023-11-27,374,Hotstar,Premium,499,18,13,UPI,TV,No
+207,Sakshi Patel,36,Female,Pune,High,2024-04-12,375,Hotstar,Super,299,59,9,Credit Card,Tablet,No
+207,Sakshi Patel,36,Female,Pune,High,2024-04-12,376,Zee5,Premium,199,23,26,Net Banking,Laptop,Yes
+207,Sakshi Patel,36,Female,Pune,High,2024-04-12,377,Amazon Prime,Monthly,299,8,37,Credit Card,Laptop,Yes
+208,Tanya Verma,36,Male,Hyderabad,High,2024-10-22,378,Hotstar,Mobile,149,14,2,Debit Card,TV,No
+209,Usha Rao,30,Male,Bangalore,Medium,2023-05-27,379,SonyLiv,Premium,299,22,11,UPI,Tablet,No
+209,Usha Rao,30,Male,Bangalore,Medium,2023-05-27,380,Hotstar,Premium,499,49,18,UPI,TV,Yes
+210,Vani Gupta,23,Female,Bangalore,Low,2023-04-25,381,SonyLiv,Premium,299,37,6,Net Banking,Tablet,No
+211,Yashika Sharma,36,Female,Bangalore,Low,2024-04-03,382,Amazon Prime,Monthly,299,0,53,UPI,TV,Yes
+211,Yashika Sharma,36,Female,Bangalore,Low,2024-04-03,383,Netflix,Basic,199,2,87,Credit Card,TV,Yes
+211,Yashika Sharma,36,Female,Bangalore,Low,2024-04-03,384,Zee5,Premium,199,9,72,Debit Card,Tablet,No
+212,Zara Patel,36,Female,Kolkata,High,2023-02-09,385,Amazon Prime,Annual,149,8,56,Debit Card,Laptop,Yes
+213,Anika Sharma,38,Male,Delhi,Medium,2023-10-13,386,Zee5,Premium,199,15,19,Credit Card,Laptop,Yes
+214,Bhakti Patel,30,Male,Delhi,Medium,2024-08-12,387,SonyLiv,Mobile,199,9,87,Debit Card,Laptop,No
+214,Bhakti Patel,30,Male,Delhi,Medium,2024-08-12,388,Zee5,Premium,199,61,5,Net Banking,Laptop,No
+214,Bhakti Patel,30,Male,Delhi,Medium,2024-08-12,389,Netflix,Basic,199,73,0,Credit Card,Mobile,No
+215,Charvi Verma,39,Female,Pune,High,2023-10-11,390,Hotstar,Premium,499,4,80,UPI,Tablet,Yes
+215,Charvi Verma,39,Female,Pune,High,2023-10-11,391,Zee5,Premium,199,74,20,Credit Card,TV,No
+216,Disha Rao,31,Female,Hyderabad,Low,2023-02-17,392,Hotstar,Mobile,149,2,50,UPI,Mobile,No
+217,Eshita Gupta,41,Male,Bangalore,Low,2023-06-11,393,Amazon Prime,Annual,149,48,16,Debit Card,TV,Yes
+218,Fiza Khan,29,Male,Bangalore,Medium,2024-10-15,394,Zee5,Basic,99,60,2,Debit Card,TV,Yes
+219,Gauri Sharma,40,Male,Mumbai,High,2023-02-28,395,SonyLiv,Mobile,199,42,23,Credit Card,Tablet,Yes
+219,Gauri Sharma,40,Male,Mumbai,High,2023-02-28,396,Hotstar,Super,299,3,57,UPI,Mobile,No
+219,Gauri Sharma,40,Male,Mumbai,High,2023-02-28,397,Amazon Prime,Monthly,299,48,3,Credit Card,Mobile,No
+220,Heena Patel,49,Female,Chennai,Low,2023-01-01,398,Zee5,Basic,99,67,9,Net Banking,TV,No
+221,Ishani Verma,25,Female,Mumbai,Medium,2024-09-11,399,SonyLiv,Mobile,199,61,29,UPI,Mobile,No
+222,Juhi Rao,26,Female,Chennai,High,2024-09-26,400,Netflix,Premium,649,67,3,Credit Card,TV,No
+223,Khushi Gupta,35,Female,Delhi,High,2023-03-13,401,SonyLiv,Mobile,199,54,0,Debit Card,Laptop,No
+223,Khushi Gupta,35,Female,Delhi,High,2023-03-13,402,Hotstar,Super,299,9,52,Debit Card,Tablet,Yes
+224,Lavina Sharma,44,Male,Hyderabad,Medium,2023-05-28,403,SonyLiv,Premium,299,6,36,Credit Card,Tablet,Yes
+225,Muskan Patel,29,Male,Delhi,Low,2023-06-26,404,Hotstar,Premium,499,67,28,Credit Card,Tablet,Yes
+225,Muskan Patel,29,Male,Delhi,Low,2023-06-26,405,Netflix,Premium,649,8,81,Credit Card,TV,No
+225,Muskan Patel,29,Male,Delhi,Low,2023-06-26,406,SonyLiv,Premium,299,26,13,UPI,Mobile,No
+226,Nikita Verma,44,Male,Pune,Medium,2024-09-19,407,Hotstar,Premium,499,25,14,Credit Card,TV,No
+226,Nikita Verma,44,Male,Pune,Medium,2024-09-19,408,Zee5,Basic,99,9,87,Credit Card,Laptop,No
+227,Oviya Gupta,34,Female,Delhi,Low,2023-07-06,409,Hotstar,Super,299,9,70,Debit Card,TV,No
+227,Oviya Gupta,34,Female,Delhi,Low,2023-07-06,410,SonyLiv,Mobile,199,2,73,Debit Card,Tablet,Yes
+228,Prachi Sharma,44,Female,Pune,Low,2024-10-27,411,Hotstar,Super,299,1,82,Credit Card,Mobile,Yes
+229,Riddhi Patel,40,Male,Chennai,High,2023-08-14,412,Amazon Prime,Annual,149,6,48,Debit Card,Laptop,Yes
+230,Simran Verma,35,Female,Pune,Low,2024-09-02,413,Netflix,Standard,499,0,68,UPI,Laptop,No
+231,Tara Rao,55,Female,Delhi,Medium,2023-06-22,414,Hotstar,Super,299,7,54,Debit Card,TV,Yes
+232,Urvi Gupta,23,Male,Pune,High,2023-06-15,415,Amazon Prime,Monthly,299,72,6,Net Banking,Mobile,No
+233,Veda Sharma,33,Female,Delhi,High,2023-04-30,416,Hotstar,Premium,499,10,18,Net Banking,Mobile,No
+234,Yukti Patel,54,Female,Kolkata,High,2023-03-22,417,Amazon Prime,Annual,149,10,23,Net Banking,TV,No
+234,Yukti Patel,54,Female,Kolkata,High,2023-03-22,418,Zee5,Premium,199,3,64,UPI,Mobile,No
+235,Zaina Khan,19,Female,Kolkata,Low,2024-02-29,419,Hotstar,Super,299,19,27,UPI,Laptop,Yes
+236,Abeer Sharma,38,Male,Mumbai,Low,2024-03-14,420,Zee5,Basic,99,2,73,Net Banking,Tablet,No
+237,Brijesh Patel,48,Female,Hyderabad,High,2023-02-01,421,Hotstar,Super,299,0,62,Debit Card,Mobile,Yes
+237,Brijesh Patel,48,Female,Hyderabad,High,2023-02-01,422,Zee5,Premium,199,39,23,UPI,TV,Yes
+237,Brijesh Patel,48,Female,Hyderabad,High,2023-02-01,423,Netflix,Basic,199,3,75,Debit Card,Tablet,No
+238,Cyrus Verma,43,Male,Chennai,Medium,2023-12-05,424,Zee5,Premium,199,4,41,Debit Card,Tablet,Yes
+239,Daman Rao,55,Male,Chennai,High,2023-03-26,425,Amazon Prime,Annual,149,47,17,Credit Card,Mobile,Yes
+239,Daman Rao,55,Male,Chennai,High,2023-03-26,426,Zee5,Premium,199,6,43,Credit Card,Mobile,Yes
+240,Eklavya Gupta,35,Female,Mumbai,Low,2023-10-27,427,SonyLiv,Premium,299,22,23,Credit Card,TV,No
+240,Eklavya Gupta,35,Female,Mumbai,Low,2023-10-27,428,Hotstar,Premium,499,6,43,UPI,TV,Yes
+241,Fahad Khan,41,Female,Mumbai,Medium,2024-06-28,429,Netflix,Standard,499,0,61,Debit Card,TV,No
+241,Fahad Khan,41,Female,Mumbai,Medium,2024-06-28,430,SonyLiv,Mobile,199,6,89,UPI,Mobile,No
+242,Gopal Sharma,51,Female,Pune,Low,2023-01-06,431,SonyLiv,Mobile,199,5,75,Debit Card,Mobile,Yes
+242,Gopal Sharma,51,Female,Pune,Low,2023-01-06,432,Amazon Prime,Annual,149,42,9,Debit Card,TV,Yes
+242,Gopal Sharma,51,Female,Pune,Low,2023-01-06,433,Netflix,Premium,649,3,58,UPI,TV,Yes
+243,Harman Patel,50,Male,Chennai,High,2024-11-26,434,Hotstar,Mobile,149,4,45,UPI,Laptop,Yes
+243,Harman Patel,50,Male,Chennai,High,2024-11-26,435,Amazon Prime,Monthly,299,8,31,Net Banking,Tablet,No
+244,Ivaan Verma,19,Male,Kolkata,Low,2023-06-01,436,SonyLiv,Premium,299,4,60,UPI,Laptop,No
+244,Ivaan Verma,19,Male,Kolkata,Low,2023-06-01,437,Zee5,Basic,99,3,47,Credit Card,TV,Yes
+245,Jeevan Rao,33,Female,Delhi,Low,2024-02-22,438,Zee5,Basic,99,70,3,Credit Card,Tablet,No
+246,Keshav Gupta,28,Male,Hyderabad,High,2024-07-28,439,Amazon Prime,Annual,149,18,11,Credit Card,Tablet,Yes
+246,Keshav Gupta,28,Male,Hyderabad,High,2024-07-28,440,Netflix,Premium,649,34,6,Net Banking,Laptop,No
+246,Keshav Gupta,28,Male,Hyderabad,High,2024-07-28,441,SonyLiv,Premium,299,1,53,Debit Card,Mobile,Yes
+247,Luv Sharma,21,Male,Hyderabad,Medium,2024-10-12,442,Netflix,Basic,199,7,31,Credit Card,Tablet,Yes
+247,Luv Sharma,21,Male,Hyderabad,Medium,2024-10-12,443,Hotstar,Premium,499,53,14,UPI,Laptop,Yes
+247,Luv Sharma,21,Male,Hyderabad,Medium,2024-10-12,444,Amazon Prime,Monthly,299,17,24,UPI,Laptop,No
+248,Mahir Patel,37,Male,Hyderabad,High,2024-09-02,445,SonyLiv,Premium,299,58,22,Credit Card,Tablet,No
+248,Mahir Patel,37,Male,Hyderabad,High,2024-09-02,446,Amazon Prime,Monthly,299,39,28,Net Banking,TV,No
+249,Nirav Verma,49,Male,Pune,Medium,2024-06-20,447,Zee5,Basic,99,45,7,Credit Card,Mobile,No
+249,Nirav Verma,49,Male,Pune,Medium,2024-06-20,448,Amazon Prime,Annual,149,29,24,UPI,TV,No
+249,Nirav Verma,49,Male,Pune,Medium,2024-06-20,449,Netflix,Basic,199,8,39,Debit Card,Laptop,Yes
+250,Om Gupta,22,Female,Pune,High,2023-10-29,450,Netflix,Basic,199,23,5,Debit Card,Laptop,No
+250,Om Gupta,22,Female,Pune,High,2023-10-29,451,Hotstar,Premium,499,6,67,UPI,Laptop,No
